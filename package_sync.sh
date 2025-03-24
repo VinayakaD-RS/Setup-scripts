@@ -59,5 +59,3 @@ for PKG_PATH in "${!PACKAGES_PATH[@]}"; do
 done
 
 echo "All packages synced!"
-
-
