@@ -4,9 +4,9 @@
 
 # NOTE: Elasticsearch comes with reasonable defaults for most settings.
 
-#       Before you set out to tweak and tune the configuration, make sure you
+#       Before you set out to tweak and tune the configuration, make sure you
 
-#       understand what are you trying to accomplish and the consequences.
+#       understand what are you trying to accomplish and the consequences.
 
 #
 
@@ -40,9 +40,9 @@ cluster.name: rdpescluster
 
 # Use a descriptive name for the node:
 
-#xpack.security.transpo
+#
 
-node.name: ashwinipalankar
+node.name: rsin-sajan-l14
 
 #
 
@@ -62,7 +62,7 @@ node.name: ashwinipalankar
 
 #
 
-path.data: /home/ashwinipalankar/run/es/data
+path.data: /home/rsin-schoudhary-l14/run/es/data
 
 #
 
@@ -70,7 +70,7 @@ path.data: /home/ashwinipalankar/run/es/data
 
 #
 
-path.logs: /home/ashwinipalankar/run/es/logs
+path.logs: /home/rsin-schoudhary-l14/run/es/logs
 
 #
 
@@ -175,5 +175,5 @@ path.logs: /home/ashwinipalankar/run/es/logs
 #action.destructive_requires_name: true
 
 xpack.security.enabled: false
-xpack.security.transport.ssl.enabled: false
-xpack.security.http.ssl.enabled: false
+Elasticsearch Guide | Elastic
+ 
